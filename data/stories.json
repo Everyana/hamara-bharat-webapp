@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sample-1",
+    "category": "Public information",
+    "date": "Demo",
+    "sourceUrl": "https://www.india.gov.in/",
+    "en": {
+      "title": "Government information in one place",
+      "summary": "This is a demonstration card, not a published news report. Verified official updates will appear here after migration.",
+      "url": "https://www.india.gov.in/"
+    },
+    "hi": {
+      "title": "सरकारी जानकारी एक ही स्थान पर",
+      "summary": "यह केवल प्रदर्शन कार्ड है, प्रकाशित समाचार नहीं। स्थानांतरण के बाद सत्यापित सरकारी समाचार यहाँ दिखाई देंगे।",
+      "url": "https://www.india.gov.in/"
+    }
+  }
+]
