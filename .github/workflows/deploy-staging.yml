@@ -1,0 +1,64 @@
+name: Deploy HAMARA BHARAT to Hostinger staging
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hostinger-staging
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: package-lock.json
+      - name: Install dependencies
+        run: npm ci
+      - name: Build
+        run: npm run build
+      - name: Add SPA fallback
+        run: |
+          cat > dist/.htaccess <<'EOF'
+          Options -MultiViews
+          <IfModule mod_rewrite.c>
+          RewriteEngine On
+          RewriteBase /
+          RewriteRule ^index\.html$ - [L]
+          RewriteCond %{REQUEST_FILENAME} !-f
+          RewriteCond %{REQUEST_FILENAME} !-d
+          RewriteRule . /index.html [L]
+          </IfModule>
+          EOF
+      - name: Verify deployment secrets
+        env:
+          FTP_SERVER: ${{ secrets.HOSTINGER_FTP_HOST }}
+          FTP_USER: ${{ secrets.HOSTINGER_FTP_USERNAME }}
+          FTP_PASS: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
+          FTP_DIR: ${{ vars.HOSTINGER_FTP_DIRECTORY }}
+        run: |
+          test -n "$FTP_SERVER" || { echo 'Missing HOSTINGER_FTP_HOST'; exit 1; }
+          test -n "$FTP_USER" || { echo 'Missing HOSTINGER_FTP_USERNAME'; exit 1; }
+          test -n "$FTP_PASS" || { echo 'Missing HOSTINGER_FTP_PASSWORD'; exit 1; }
+          test -n "$FTP_DIR" || { echo 'Missing HOSTINGER_FTP_DIRECTORY'; exit 1; }
+      - name: Deploy compiled website via FTPS
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.HOSTINGER_FTP_HOST }}
+          username: ${{ secrets.HOSTINGER_FTP_USERNAME }}
+          password: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./dist/
+          server-dir: ${{ vars.HOSTINGER_FTP_DIRECTORY }}
+          dangerous-clean-slate: false
