@@ -1,4 +1,4 @@
-# HAMARA BHARAT — web app migration
+# SWIPES-IN — HAMARA BHARAT web app migration
 
 This is an initial **working swipe-reader scaffold**, not a production migration. The sample card is a clearly labelled demo. Existing WordPress content has **not yet been migrated**.
 
@@ -26,3 +26,7 @@ Hostinger must support Node.js build or static Vite deployment. Build with `npm 
 ## Next development
 
 WordPress export adapter, content model, media migration, deduplication, original URL mapping, bilingual editorial workflow, source monitoring, bookmarks, search, analytics and accessibility testing.
+
+
+## Brand
+SWIPES-IN is the app identity for the India edition. HAMARA BHARAT remains the editorial heritage name. Visual palette: saffron, white and green. Existing WordPress posts are not yet imported; demo data remains clearly labelled.
