@@ -1,5 +1,445 @@
 [
   {
+    "id": "iitm-open-house-2027",
+    "date": "2026-11-16",
+    "zone": "South",
+    "jurisdiction": "Tamil Nadu",
+    "category": {
+      "en": "Education",
+      "hi": "शिक्षा"
+    },
+    "source": "IIT Madras",
+    "sourceUrl": "https://www.iitm.ac.in/happenings/press-releases-and-coverages/iit-madras-invites-public-institute-open-house-2027-2-4-jan",
+    "en": {
+      "title": "IIT Madras opens registration for January open house",
+      "summary": "Students, teachers and other visitors can register to explore research facilities at the Chennai campus from January 2 to 4, 2027. Use the registration link in the institute’s announcement.",
+      "url": "https://hb.everyana.com/#story-iitm-open-house-2027"
+    },
+    "hi": {
+      "title": "आईआईटी मद्रास के जनवरी ओपन हाउस का पंजीकरण शुरू",
+      "summary": "विद्यार्थी, शिक्षक और अन्य आगंतुक 2 से 4 जनवरी 2027 तक चेन्नई परिसर की शोध सुविधाएँ देखने के लिए संस्थान की सूचना में दिए लिंक से पंजीकरण कर सकते हैं।",
+      "url": "https://hb.everyana.com/?lang=hi#story-iitm-open-house-2027"
+    }
+  },
+  {
+    "id": "jalgaon-tanker-tender-2027",
+    "date": "2026-11-16",
+    "zone": "West",
+    "jurisdiction": "Maharashtra",
+    "category": {
+      "en": "Public notices",
+      "hi": "सार्वजनिक सूचनाएँ"
+    },
+    "source": "Jalgaon District Administration",
+    "sourceUrl": "https://jalgaon.gov.in/en/notice_category/notice/",
+    "en": {
+      "title": "Jalgaon invites bids for rural water tankers",
+      "summary": "The district has issued a tender for private tankers to supply rural areas during the 2027 water scarcity period. Interested operators can check the tender documents and submit bids by November 30.",
+      "url": "https://hb.everyana.com/#story-jalgaon-tanker-tender-2027"
+    },
+    "hi": {
+      "title": "जलगाँव में ग्रामीण जल आपूर्ति के लिए टैंकरों की निविदा",
+      "summary": "जिला प्रशासन ने 2027 में जल संकट के दौरान ग्रामीण क्षेत्रों में आपूर्ति के लिए निजी टैंकरों की निविदा जारी की है। इच्छुक संचालक दस्तावेज़ देखकर 30 नवंबर तक बोली जमा कर सकते हैं।",
+      "url": "https://hb.everyana.com/?lang=hi#story-jalgaon-tanker-tender-2027"
+    }
+  },
+  {
+    "id": "pib-2336892",
+    "date": "2026-11-16",
+    "zone": "South",
+    "jurisdiction": "Kerala",
+    "category": {
+      "en": "Agriculture",
+      "hi": "कृषि"
+    },
+    "source": "Ministry of Agriculture and Farmers Welfare",
+    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2336892&lang=1&reg=3",
+    "en": {
+      "title": "Kochi hosts international coconut sector meeting",
+      "summary": "The Coconut Development Board and International Coconut Community will bring coconut-producing countries together in Kochi from November 17 to 20 to discuss cooperation and sustainable development in the sector.",
+      "url": "https://hb.everyana.com/#story-pib-2336892"
+    },
+    "hi": {
+      "title": "कोच्चि में नारियल क्षेत्र की अंतरराष्ट्रीय बैठक",
+      "summary": "नारियल विकास बोर्ड और अंतरराष्ट्रीय नारियल समुदाय 17 से 20 नवंबर तक कोच्चि में नारियल उत्पादक देशों को सहयोग और क्षेत्र के टिकाऊ विकास पर चर्चा के लिए एक साथ लाएँगे।",
+      "url": "https://hb.everyana.com/?lang=hi#story-pib-2336892"
+    }
+  },
+  {
+    "id": "pib-2337050",
+    "date": "2026-11-16",
+    "zone": "National",
+    "jurisdiction": "Central Government",
+    "category": {
+      "en": "Technology",
+      "hi": "प्रौद्योगिकी"
+    },
+    "source": "Ministry of Minority Affairs",
+    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2337050&lang=1&reg=3",
+    "en": {
+      "title": "Ministry holds AI workshop on research and document processing",
+      "summary": "A November 16 workshop gave Ministry of Minority Affairs officials hands-on practice with AI for research, document processing and administrative work. The session also addressed errors that AI tools can produce.",
+      "url": "https://hb.everyana.com/#story-pib-2337050"
+    },
+    "hi": {
+      "title": "मंत्रालय ने दस्तावेज़ों पर काम के लिए एआई उपकरण आज़माए",
+      "summary": "16 नवंबर की कार्यशाला में अल्पसंख्यक कार्य मंत्रालय के अधिकारियों ने शोध, दस्तावेज़ों और प्रशासनिक काम में एआई का अभ्यास किया। सत्र में एआई से होने वाली गलतियों पर भी चर्चा हुई।",
+      "url": "https://hb.everyana.com/?lang=hi#story-pib-2337050"
+    }
+  },
+  {
+    "id": "pib-2336621",
+    "date": "2026-11-15",
+    "zone": "Northeast",
+    "jurisdiction": "Assam",
+    "category": {
+      "en": "Culture",
+      "hi": "संस्कृति"
+    },
+    "source": "TRIFED / Ministry of Tribal Affairs",
+    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336621&lang=2&reg=48",
+    "en": {
+      "title": "Aadi Mahotsav runs through November 21 in Guwahati",
+      "summary": "The exhibition and sale at Khanapara features products from tribal artisans and producers. TRIFED’s Guwahati regional office is organizing the event.",
+      "url": "https://hb.everyana.com/#story-pib-2336621"
+    },
+    "hi": {
+      "title": "गुवाहाटी में आदि महोत्सव 21 नवंबर तक",
+      "summary": "खानापाड़ा की प्रदर्शनी और बिक्री में जनजातीय कारीगरों और उत्पादकों की वस्तुएँ उपलब्ध हैं। आयोजन ट्राइफेड का गुवाहाटी क्षेत्रीय कार्यालय कर रहा है।",
+      "url": "https://hb.everyana.com/?lang=hi#story-pib-2336621"
+    }
+  },
+  {
+    "id": "pib-2336512",
+    "date": "2026-11-15",
+    "zone": "South",
+    "jurisdiction": "Telangana",
+    "category": {
+      "en": "Sports",
+      "hi": "खेल"
+    },
+    "source": "Ministry of Youth Affairs and Sports",
+    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2336512&lang=1&reg=6",
+    "en": {
+      "title": "Six Telangana cities to host Khelo India Youth Games",
+      "summary": "The games are scheduled for December 11 to 22, with 27 competitive sports and two demonstration events. Softball joins the competition programme for the first time.",
+      "url": "https://hb.everyana.com/#story-pib-2336512"
+    },
+    "hi": {
+      "title": "तेलंगाना के छह शहरों में होंगे खेलो इंडिया युवा खेल",
+      "summary": "खेल 11 से 22 दिसंबर तक होंगे। कार्यक्रम में 27 प्रतिस्पर्धी खेल और दो प्रदर्शन खेल हैं। सॉफ्टबॉल पहली बार प्रतिस्पर्धी खेल के रूप में शामिल होगा।",
+      "url": "https://hb.everyana.com/?lang=hi#story-pib-2336512"
+    }
+  },
+  {
+    "id": "ssc-cpo-paper-i-2026-admission",
+    "date": "2026-11-13",
+    "zone": "National",
+    "jurisdiction": "Central Government",
+    "category": {
+      "en": "Admit cards",
+      "hi": "प्रवेश पत्र"
+    },
+    "source": "Staff Selection Commission",
+    "sourceUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/City%20live%20CPO%20Exam%20notice_13112026.pdf",
+    "en": {
+      "title": "SSC releases exam city details for sub-inspector Paper I",
+      "summary": "Candidates for Delhi Police and CAPF sub-inspector posts can sign in on SSC’s website for their exam city. Exams run November 23 to 28. SSC expects admission certificates to be available two to three days before each exam.",
+      "url": "https://hb.everyana.com/#story-ssc-cpo-paper-i-2026-admission"
+    },
+    "hi": {
+      "title": "एसएससी ने उपनिरीक्षक पेपर I के परीक्षा शहर की जानकारी जारी की",
+      "summary": "दिल्ली पुलिस और केंद्रीय सशस्त्र पुलिस बलों के उपनिरीक्षक पदों के अभ्यर्थी एसएससी वेबसाइट पर लॉग इन कर परीक्षा शहर देख सकते हैं। परीक्षा 23 से 28 नवंबर तक चलेगी। प्रवेश पत्र संबंधित परीक्षा से दो से तीन दिन पहले मिलने की संभावना है।",
+      "url": "https://hb.everyana.com/?lang=hi#story-ssc-cpo-paper-i-2026-admission"
+    }
+  },
+  {
+    "id": "goa-gspcb-engineer-officer-2026",
+    "date": "2026-11-13",
+    "zone": "West",
+    "jurisdiction": "Goa",
+    "category": {
+      "en": "Government Jobs",
+      "hi": "सरकारी नौकरियाँ"
+    },
+    "source": "Goa State Pollution Control Board",
+    "sourceUrl": "https://www.goa.gov.in/wp-content/uploads/2026/11/Pollution_Control_Board_16112026_Adv.pdf",
+    "en": {
+      "title": "Goa opens recruitment for junior environmental posts",
+      "summary": "The Goa State Pollution Control Board is recruiting junior environmental engineers and junior environmental officers. The state recruitment portal lists December 2 as the closing date.",
+      "url": "https://hb.everyana.com/#story-goa-gspcb-engineer-officer-2026"
+    },
+    "hi": {
+      "title": "गोवा में कनिष्ठ पर्यावरण पदों पर भर्ती",
+      "summary": "गोवा राज्य प्रदूषण नियंत्रण बोर्ड कनिष्ठ पर्यावरण अभियंता और कनिष्ठ पर्यावरण अधिकारी पदों पर भर्ती कर रहा है। राज्य के भर्ती पोर्टल में अंतिम तारीख 2 दिसंबर दी गई है।",
+      "url": "https://hb.everyana.com/?lang=hi#story-goa-gspcb-engineer-officer-2026"
+    }
+  },
+  {
+    "id": "jharkhand-neet-pg-state-round-2",
+    "date": "2026-11-13",
+    "zone": "East",
+    "jurisdiction": "Jharkhand",
+    "category": {
+      "en": "Counselling",
+      "hi": "काउंसलिंग"
+    },
+    "source": "Jharkhand Combined Entrance Competitive Examination Board",
+    "sourceUrl": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
+    "en": {
+      "title": "Jharkhand posts second-round NEET PG counselling notice",
+      "summary": "Applicants for state-quota MD, MS, diploma or DNB seats can open notice 123, dated November 13, in the board’s counselling list to check the second-round instructions.",
+      "url": "https://hb.everyana.com/#story-jharkhand-neet-pg-state-round-2"
+    },
+    "hi": {
+      "title": "झारखंड ने नीट पीजी की दूसरे दौर की काउंसलिंग सूचना जारी की",
+      "summary": "राज्य कोटे की एमडी, एमएस, डिप्लोमा या डीएनबी सीटों के अभ्यर्थी दूसरे दौर के निर्देशों के लिए बोर्ड की काउंसलिंग सूची में 13 नवंबर की सूचना संख्या 123 देखें।",
+      "url": "https://hb.everyana.com/?lang=hi#story-jharkhand-neet-pg-state-round-2"
+    }
+  },
+  {
+    "id": "pib-2335599",
+    "date": "2026-11-12",
+    "zone": "North",
+    "jurisdiction": "Delhi",
+    "category": {
+      "en": "Languages",
+      "hi": "भाषाएँ"
+    },
+    "source": "Ministry of Tribal Affairs",
+    "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335599&lang=1&reg=1",
+    "en": {
+      "title": "Tribal literary festival brings oral traditions to New Delhi",
+      "summary": "The November 12–13 festival brought writers, poets and language researchers together at India Habitat Centre to discuss how tribal oral traditions are preserved and shared through contemporary literature.",
+      "url": "https://hb.everyana.com/#story-pib-2335599"
+    },
+    "hi": {
+      "title": "दिल्ली के जनजातीय साहित्य महोत्सव में मौखिक परंपराओं पर चर्चा",
+      "summary": "12 और 13 नवंबर को इंडिया हैबिटैट सेंटर में लेखकों, कवियों और भाषा शोधकर्ताओं ने जनजातीय मौखिक परंपराओं के संरक्षण और समकालीन साहित्य में उनके प्रसार पर चर्चा की।",
+      "url": "https://hb.everyana.com/?lang=hi#story-pib-2335599"
+    }
+  },
+  {
+    "id": "bidar-anganwadi-nov-2026",
+    "date": "2026-11-11",
+    "zone": "South",
+    "jurisdiction": "Karnataka",
+    "category": {
+      "en": "Government Jobs",
+      "hi": "सरकारी नौकरियाँ"
+    },
+    "source": "Bidar District Administration",
+    "sourceUrl": "https://bidar.nic.in/en/announcements/",
+    "en": {
+      "title": "Bidar opens recruitment for Anganwadi workers and helpers",
+      "summary": "The district lists online applications for Anganwadi worker and helper posts from November 11 through December 11. The district announcement links to the application and government notification.",
+      "url": "https://hb.everyana.com/#story-bidar-anganwadi-nov-2026"
+    },
+    "hi": {
+      "title": "बीदर में आंगनवाड़ी कार्यकर्ताओं और सहायिकाओं की भर्ती",
+      "summary": "जिला प्रशासन ने आंगनवाड़ी कार्यकर्ता और सहायिका पदों के लिए 11 नवंबर से 11 दिसंबर तक ऑनलाइन आवेदन की सूचना दी है। जिला वेबसाइट पर आवेदन और सरकारी विज्ञप्ति के लिंक हैं।",
+      "url": "https://hb.everyana.com/?lang=hi#story-bidar-anganwadi-nov-2026"
+    }
+  },
+  {
+    "id": "malappuram-disaster-training-nov10",
+    "date": "2026-11-10",
+    "zone": "South",
+    "jurisdiction": "Kerala",
+    "category": {
+      "en": "Public safety",
+      "hi": "जन सुरक्षा"
+    },
+    "source": "Kerala State Disaster Management Authority",
+    "sourceUrl": "https://sdma.kerala.gov.in/events-2026/",
+    "en": {
+      "title": "Malappuram workshop covers heat and tsunami preparedness",
+      "summary": "Kerala’s disaster management authority lists a November 10 workshop at the Malappuram collectorate covering the district heat action plan and the tsunami response plan for Veliyancode gram panchayat.",
+      "url": "https://hb.everyana.com/#story-malappuram-disaster-training-nov10"
+    },
+    "hi": {
+      "title": "मलप्पुरम की कार्यशाला में गर्मी और सुनामी से निपटने की तैयारी",
+      "summary": "केरल आपदा प्रबंधन प्राधिकरण ने मलप्पुरम कलेक्ट्रेट में 10 नवंबर की कार्यशाला दर्ज की है। इसमें जिला गर्मी कार्ययोजना और वेलियांकोड ग्राम पंचायत की सुनामी प्रतिक्रिया योजना पर चर्चा हुई।",
+      "url": "https://hb.everyana.com/?lang=hi#story-malappuram-disaster-training-nov10"
+    }
+  },
+  {
+    "id": "pib-2334313",
+    "date": "2026-11-09",
+    "zone": "South",
+    "jurisdiction": "Tamil Nadu",
+    "category": {
+      "en": "Public services",
+      "hi": "जन सेवाएँ"
+    },
+    "source": "Unique Identification Authority of India",
+    "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334313&lang=1&reg=3",
+    "en": {
+      "title": "New Aadhaar service centres open in Tenkasi and Tiruppur",
+      "summary": "Residents can use the new centres for Aadhaar enrolment and updates. Check UIDAI’s release for the local service details before visiting.",
+      "url": "https://hb.everyana.com/#story-pib-2334313"
+    },
+    "hi": {
+      "title": "तेनकासी और तिरुप्पुर में नए आधार सेवा केंद्र खुले",
+      "summary": "स्थानीय निवासी इन केंद्रों पर आधार नामांकन और जानकारी अपडेट करा सकते हैं। जाने से पहले यूआईडीएआई की सूचना में स्थानीय सेवाओं का विवरण देखें।",
+      "url": "https://hb.everyana.com/?lang=hi#story-pib-2334313"
+    }
+  },
+  {
+    "id": "nta-observer-panel-nov-2026",
+    "date": "2026-11-07",
+    "zone": "National",
+    "jurisdiction": "Central Government",
+    "category": {
+      "en": "Exams",
+      "hi": "परीक्षाएँ"
+    },
+    "source": "National Testing Agency",
+    "sourceUrl": "https://nta.ac.in/Download/Notice/Notice_20261107190046.pdf",
+    "en": {
+      "title": "NTA invites applications for exam observer panel",
+      "summary": "Eligible serving and retired personnel from government institutions can apply by December 6 to join the panel that oversees computer-based and pen-and-paper exams. Check the notice for eligible roles and institutions.",
+      "url": "https://hb.everyana.com/#story-nta-observer-panel-nov-2026"
+    },
+    "hi": {
+      "title": "एनटीए ने परीक्षा पर्यवेक्षक पैनल के लिए आवेदन माँगे",
+      "summary": "सरकारी संस्थानों के पात्र सेवारत और सेवानिवृत्त कर्मी कंप्यूटर और लिखित परीक्षाओं की निगरानी वाले पैनल के लिए 6 दिसंबर तक आवेदन कर सकते हैं। पात्र पदों और संस्थानों की सूची सूचना में देखें।",
+      "url": "https://hb.everyana.com/?lang=hi#story-nta-observer-panel-nov-2026"
+    }
+  },
+  {
+    "id": "dsssb-06-2026",
+    "date": "2026-11-06",
+    "zone": "North",
+    "jurisdiction": "Delhi",
+    "category": {
+      "en": "Government Jobs",
+      "hi": "सरकारी नौकरियाँ"
+    },
+    "source": "Delhi Subordinate Services Selection Board",
+    "sourceUrl": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/advt_06_2026.pdf",
+    "en": {
+      "title": "Delhi recruitment includes junior engineers and multitasking staff",
+      "summary": "DSSSB is accepting online applications under advertisement 06/2026 until 11:59 p.m. on December 11. Check the official notice for each post’s qualifications and vacancy breakdown.",
+      "url": "https://hb.everyana.com/#story-dsssb-06-2026"
+    },
+    "hi": {
+      "title": "दिल्ली में कनिष्ठ अभियंता और मल्टीटास्किंग स्टाफ की भर्ती",
+      "summary": "डीएसएसएसबी विज्ञापन 06/2026 के तहत 11 दिसंबर रात 11:59 बजे तक ऑनलाइन आवेदन ले रहा है। हर पद की योग्यता और रिक्तियों का विवरण आधिकारिक सूचना में देखें।",
+      "url": "https://hb.everyana.com/?lang=hi#story-dsssb-06-2026"
+    }
+  },
+  {
+    "id": "sikkim-social-welfare-nsp-2026",
+    "date": "2026-11-05",
+    "zone": "Northeast",
+    "jurisdiction": "Sikkim",
+    "category": {
+      "en": "Scholarships",
+      "hi": "छात्रवृत्तियाँ"
+    },
+    "source": "Sikkim Social Welfare Department",
+    "sourceUrl": "https://socialwelfare.sikkim.gov.in/storage/notification/notificationdoc-2VeXi8MfiUZJocNKkyBppCLbFQjNa4dyUEWdhWXi.pdf",
+    "en": {
+      "title": "Sikkim directs eligible students to the scholarship portal",
+      "summary": "The state’s Social Welfare Department says eligible OBC, EBC and denotified, nomadic and semi-nomadic tribe students can apply on the National Scholarship Portal. Check the scheme’s deadline and complete the required documents before submitting.",
+      "url": "https://hb.everyana.com/#story-sikkim-social-welfare-nsp-2026"
+    },
+    "hi": {
+      "title": "सिक्किम ने पात्र विद्यार्थियों को छात्रवृत्ति पोर्टल पर आवेदन करने को कहा",
+      "summary": "समाज कल्याण विभाग के अनुसार पात्र ओबीसी, ईबीसी तथा विमुक्त, घुमंतू और अर्ध-घुमंतू समुदायों के विद्यार्थी राष्ट्रीय छात्रवृत्ति पोर्टल पर आवेदन कर सकते हैं। आवेदन से पहले योजना की अंतिम तारीख और ज़रूरी दस्तावेज़ देखें।",
+      "url": "https://hb.everyana.com/?lang=hi#story-sikkim-social-welfare-nsp-2026"
+    }
+  },
+  {
+    "id": "upsc-csm-written-result-2026",
+    "date": "2026-11-05",
+    "zone": "National",
+    "jurisdiction": "Central Government",
+    "category": {
+      "en": "Results",
+      "hi": "परिणाम"
+    },
+    "source": "Union Public Service Commission",
+    "sourceUrl": "https://www.upsc.gov.in/sites/default/files/WR-CSM-2026-Engl-RollList-05112026.pdf",
+    "en": {
+      "title": "UPSC publishes Civil Services Main written result",
+      "summary": "Candidates can search the official roll-number list to see whether they qualified for the personality test. The commission says eligibility remains provisional and lists next steps in the notice.",
+      "url": "https://hb.everyana.com/#story-upsc-csm-written-result-2026"
+    },
+    "hi": {
+      "title": "यूपीएससी ने सिविल सेवा मुख्य लिखित परीक्षा का परिणाम जारी किया",
+      "summary": "अभ्यर्थी आधिकारिक अनुक्रमांक सूची में देख सकते हैं कि वे व्यक्तित्व परीक्षण के लिए चुने गए हैं या नहीं। आयोग ने पात्रता को अनंतिम बताया है और आगे के निर्देश सूचना में दिए हैं।",
+      "url": "https://hb.everyana.com/?lang=hi#story-upsc-csm-written-result-2026"
+    }
+  },
+  {
+    "id": "mungeli-mission-shakti-eligibility-2026",
+    "date": "2026-11-04",
+    "zone": "Central",
+    "jurisdiction": "Chhattisgarh",
+    "category": {
+      "en": "Results",
+      "hi": "परिणाम"
+    },
+    "source": "Mungeli District Administration",
+    "sourceUrl": "https://mungeli.gov.in/en/notice_category/recruitment/",
+    "en": {
+      "title": "Mungeli posts eligibility lists for One Stop Centre applicants",
+      "summary": "Applicants for roles including psychosocial counsellor, case worker and office assistant can find their post in the district’s November 4 eligibility notice.",
+      "url": "https://hb.everyana.com/#story-mungeli-mission-shakti-eligibility-2026"
+    },
+    "hi": {
+      "title": "मुंगेली ने वन स्टॉप सेंटर के अभ्यर्थियों की पात्रता सूचियाँ जारी कीं",
+      "summary": "मनोसामाजिक परामर्शदाता, केस वर्कर और कार्यालय सहायक समेत अन्य पदों के अभ्यर्थी जिले की 4 नवंबर की पात्रता सूचना में अपने पद की सूची देख सकते हैं।",
+      "url": "https://hb.everyana.com/?lang=hi#story-mungeli-mission-shakti-eligibility-2026"
+    }
+  },
+  {
+    "id": "mp-metro-4745-2026",
+    "date": "2026-11-03",
+    "zone": "Central",
+    "jurisdiction": "Madhya Pradesh",
+    "category": {
+      "en": "Government Jobs",
+      "hi": "सरकारी नौकरियाँ"
+    },
+    "source": "Madhya Pradesh Metro Rail Corporation",
+    "sourceUrl": "https://iforms.mponline.gov.in/",
+    "en": {
+      "title": "Madhya Pradesh Metro opens recruitment under notice 4745",
+      "summary": "The state portal lists applications through December 3 for the Metro Rail Corporation’s November 3 recruitment notice. Find advertisement 4745 on the portal to check the rulebook and apply.",
+      "url": "https://hb.everyana.com/#story-mp-metro-4745-2026"
+    },
+    "hi": {
+      "title": "मध्य प्रदेश मेट्रो में विज्ञापन 4745 के तहत भर्ती",
+      "summary": "प्रदेश पोर्टल के अनुसार मेट्रो रेल कॉरपोरेशन की 3 नवंबर की भर्ती सूचना के लिए 3 दिसंबर तक आवेदन खुले हैं। नियम पुस्तिका और आवेदन के लिए पोर्टल पर विज्ञापन 4745 देखें।",
+      "url": "https://hb.everyana.com/?lang=hi#story-mp-metro-4745-2026"
+    }
+  },
+  {
+    "id": "purulia-ayush-nov-2026",
+    "date": "2026-11-02",
+    "zone": "East",
+    "jurisdiction": "West Bengal",
+    "category": {
+      "en": "Government Jobs",
+      "hi": "सरकारी नौकरियाँ"
+    },
+    "source": "Purulia District Health and Family Welfare Samity",
+    "sourceUrl": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notice%20AYUSH%201%202026.pdf",
+    "en": {
+      "title": "Purulia opens recruitment for contractual AYUSH posts",
+      "summary": "Eligible West Bengal residents can register online by November 18 and submit their applications by November 19. The district notice lists qualifications and application steps.",
+      "url": "https://hb.everyana.com/#story-purulia-ayush-nov-2026"
+    },
+    "hi": {
+      "title": "पुरुलिया में संविदा आयुष पदों पर भर्ती",
+      "summary": "पश्चिम बंगाल के पात्र निवासी 18 नवंबर तक ऑनलाइन पंजीकरण और 19 नवंबर तक आवेदन जमा कर सकते हैं। योग्यता और आवेदन के निर्देश जिला स्वास्थ्य विभाग की सूचना में हैं।",
+      "url": "https://hb.everyana.com/?lang=hi#story-purulia-ayush-nov-2026"
+    }
+  },
+  {
     "id": "pib-2336418",
     "category": {
       "en": "Culture",
