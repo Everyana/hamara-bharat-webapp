@@ -5,12 +5,13 @@ let language=(new URLSearchParams(location.search).get('lang')==='hi'||location.
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const states=['Andhra Pradesh','Arunachal Pradesh','Assam','Bihar','Chhattisgarh','Goa','Gujarat','Haryana','Himachal Pradesh','Jharkhand','Karnataka','Kerala','Madhya Pradesh','Maharashtra','Manipur','Meghalaya','Mizoram','Nagaland','Odisha','Punjab','Rajasthan','Sikkim','Tamil Nadu','Telangana','Tripura','Uttar Pradesh','Uttarakhand','West Bengal'];
 const uts=['Andaman and Nicobar Islands','Chandigarh','Dadra and Nagar Haveli and Daman and Diu','Delhi','Jammu and Kashmir','Ladakh','Lakshadweep','Puducherry'];
-const names={'Central Government':'केंद्र सरकार','All India':'सम्पूर्ण भारत','All topics':'सभी विषय','All jurisdictions':'सभी क्षेत्र','Search public updates':'सार्वजनिक अपडेट खोजें'};
+const names={'Government Jobs':'सरकारी नौकरियाँ','Central Government':'केंद्र सरकार','All India':'सम्पूर्ण भारत','All topics':'सभी विषय','All jurisdictions':'सभी क्षेत्र','Search public updates':'सार्वजनिक अपडेट खोजें'};
 const tr=(en,hi)=>language==='hi'?hi:en;
 const category=s=>s.category?.[language]||s.category?.en||'Public updates';
 const getJurisdiction=s=>s.jurisdiction?.en||s.jurisdiction||s.state||s.region||'Central Government';
-const allTopics=()=>[...new Set(stories.map(s=>s.category?.en).filter(Boolean))].sort();
-const filtered=()=>stories.filter(s=>(!topic||s.category?.en===topic)&&(!jurisdiction||getJurisdiction(s)===jurisdiction)&&( !query||[s.en?.title,s.en?.summary,s.hi?.title,s.hi?.summary,s.category?.en,s.category?.hi,getJurisdiction(s),s.department,s.source].join(' ').toLowerCase().includes(query.toLowerCase())));
+const allTopics=()=>['Government Jobs',...new Set(stories.map(s=>s.category?.en).filter(Boolean).filter(x=>x!=='Government Jobs'))].sort();
+const isGovJob=s=>{const title=(s.en?.title||'')+' '+(s.hi?.title||'');const type=(s.category?.en||'').toLowerCase();return (type==='government jobs'||type==='jobs and recruitment'||type==='recruitment')&&/recruit|vacanc|position|apply|hiring|भर्ती|रिक्त|नियुक्ति/i.test(title)&&!!s.sourceUrl&&/^https:\/\//.test(s.sourceUrl)};
+const filtered=()=>stories.filter(s=>(!topic||(topic==='Government Jobs'?isGovJob(s):s.category?.en===topic))&&(!jurisdiction||getJurisdiction(s)===jurisdiction)&&( !query||[s.en?.title,s.en?.summary,s.hi?.title,s.hi?.summary,s.category?.en,s.category?.hi,getJurisdiction(s),s.department,s.source].join(' ').toLowerCase().includes(query.toLowerCase())));
 function render(){
  document.documentElement.lang=language;
  const items=filtered();active=Math.min(active,Math.max(0,items.length-1));
