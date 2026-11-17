@@ -28,7 +28,7 @@ function render(){
  document.querySelector('#empty-clear')?.addEventListener('click',clear);
  document.querySelector('#next').onclick=()=>go(1);document.querySelector('#prev').onclick=()=>go(-1);
  const feed=document.querySelector('#feed');feed.addEventListener('scroll',()=>{active=Math.max(0,Math.min(items.length-1,Math.round(feed.scrollTop/feed.clientHeight)))},{passive:true});feed.scrollTop=active*feed.clientHeight;
- document.querySelectorAll('.share').forEach(b=>b.onclick=()=>{const url=new URL(location.href);url.hash='story-'+b.dataset.id;navigator.share?navigator.share({url:url.href}).catch(()=>{}):navigator.clipboard?.writeText(url.href)});
+ document.querySelectorAll('.share').forEach(b=>b.onclick=()=>{const url=new URL((language==='hi'?'/hi':'')+'/story/'+encodeURIComponent(b.dataset.id)+'/',location.origin);navigator.share?navigator.share({url:url.href}).catch(()=>{}):navigator.clipboard?.writeText(url.href)});
 }
 function updateFeed(){const input=document.querySelector('#search');const start=input.selectionStart;render();const next=document.querySelector('#search');next.focus();next.setSelectionRange(start,start)}
 function clear(){query='';topic='';jurisdiction='';active=0;render()}
