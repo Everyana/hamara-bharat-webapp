@@ -132,6 +132,204 @@
     }
   },
   {
+    "id": "pib-2336418",
+    "category": {
+      "en": "Culture",
+      "hi": "संस्कृति"
+    },
+    "date": "2026-11-15",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336418",
+    "en": {
+      "title": "Buddhist relics go on public display in Namsai",
+      "summary": "The Golden Pagoda exhibition in Arunachal Pradesh is open for public viewing from November 14 to 20.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336418"
+    },
+    "hi": {
+      "title": "नामसाई में बुद्ध के पवित्र अवशेषों के दर्शन",
+      "summary": "अरुणाचल प्रदेश के गोल्डन पैगोडा में 14 से 20 नवंबर तक श्रद्धालु पवित्र अवशेषों के दर्शन कर सकते हैं।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336418"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336431",
+    "category": {
+      "en": "Technology",
+      "hi": "प्रौद्योगिकी"
+    },
+    "date": "2026-11-15",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336431",
+    "en": {
+      "title": "Delhi to host a cybersecurity and digital forensics conference",
+      "summary": "NIELIT is bringing together specialists in cybersecurity and digital investigations in New Delhi on November 16 and 17.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336431"
+    },
+    "hi": {
+      "title": "दिल्ली में साइबर सुरक्षा और डिजिटल फॉरेंसिक सम्मेलन",
+      "summary": "नाइलिट 16 और 17 नवंबर को नई दिल्ली में साइबर सुरक्षा और डिजिटल जांच के विशेषज्ञों को एक मंच पर लाएगा।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336431"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336452",
+    "category": {
+      "en": "Livelihoods",
+      "hi": "आजीविका"
+    },
+    "date": "2026-11-15",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336452",
+    "en": {
+      "title": "PIB explains the Lakhpati Didi initiative",
+      "summary": "The backgrounder explains how the initiative supports women in self-help groups as they build sustainable sources of income.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336452"
+    },
+    "hi": {
+      "title": "पीआईबी ने लखपति दीदी पहल की जानकारी दी",
+      "summary": "इस विवरण में बताया गया है कि पहल स्वयं सहायता समूहों की महिलाओं को टिकाऊ आय के साधन विकसित करने में कैसे मदद करती है।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336452"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336430",
+    "category": {
+      "en": "Science",
+      "hi": "विज्ञान"
+    },
+    "date": "2026-11-15",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336430",
+    "en": {
+      "title": "PIB reviews private participation in India’s space sector",
+      "summary": "The November 15 backgrounder describes how India has opened space activities to private companies and startups.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336430"
+    },
+    "hi": {
+      "title": "भारत के अंतरिक्ष क्षेत्र में निजी भागीदारी पर पीआईबी का विवरण",
+      "summary": "15 नवंबर को जारी विवरण बताता है कि भारत ने निजी कंपनियों और स्टार्टअप के लिए अंतरिक्ष गतिविधियों में भागीदारी कैसे खोली है।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336430"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336424",
+    "category": {
+      "en": "Languages",
+      "hi": "भाषाएं"
+    },
+    "date": "2026-11-15",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336424",
+    "en": {
+      "title": "PIB outlines Adi Vaani’s work on tribal languages",
+      "summary": "The November 15 backgrounder describes a technology initiative aimed at improving digital access to tribal languages.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336424"
+    },
+    "hi": {
+      "title": "जनजातीय भाषाओं के लिए आदि वाणी की पहल",
+      "summary": "15 नवंबर को जारी विवरण जनजातीय भाषाओं तक डिजिटल पहुंच बढ़ाने वाली एक तकनीकी पहल के बारे में है।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336424"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336233",
+    "category": {
+      "en": "Culture",
+      "hi": "संस्कृति"
+    },
+    "date": "2026-11-14",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336233",
+    "en": {
+      "title": "Chhath Puja observances continue across India",
+      "summary": "In a November 14 message for Chhath, the President acknowledged the festival’s tradition of offering prayers to the Sun.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336233"
+    },
+    "hi": {
+      "title": "देशभर में छठ पूजा का पर्व",
+      "summary": "14 नवंबर के संदेश में राष्ट्रपति ने छठ पर्व पर सूर्य को अर्घ्य देने की परंपरा का उल्लेख किया।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336233"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336340",
+    "category": {
+      "en": "Sports",
+      "hi": "खेल"
+    },
+    "date": "2026-11-14",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336340",
+    "en": {
+      "title": "India wins the men’s under-19 Asia Cup",
+      "summary": "India’s men’s under-19 cricket team won the 2026 Asia Cup, according to a November 14 government release.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336340"
+    },
+    "hi": {
+      "title": "भारत ने पुरुष अंडर-19 एशिया कप जीता",
+      "summary": "14 नवंबर की सरकारी विज्ञप्ति के अनुसार, भारत की पुरुष अंडर-19 क्रिकेट टीम ने 2026 एशिया कप जीता।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336340"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336214",
+    "category": {
+      "en": "Heritage",
+      "hi": "विरासत"
+    },
+    "date": "2026-11-14",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336214",
+    "en": {
+      "title": "Janjatiya Gaurav Diwas programme includes a Mizoram museum opening",
+      "summary": "The November 15 programme in Gadchiroli marks Birsa Munda’s 151st birth anniversary and includes the Ropuiliani Tribal Freedom Fighter Museum.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336214"
+    },
+    "hi": {
+      "title": "जनजातीय गौरव दिवस कार्यक्रम में मिजोरम के संग्रहालय का उद्घाटन",
+      "summary": "गढ़चिरौली में 15 नवंबर का कार्यक्रम बिरसा मुंडा की 151वीं जयंती पर है। इसमें रोपुइलियानी जनजातीय स्वतंत्रता सेनानी संग्रहालय का उद्घाटन शामिल है।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336214"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336260",
+    "category": {
+      "en": "Enterprise",
+      "hi": "उद्यम"
+    },
+    "date": "2026-11-14",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336260",
+    "en": {
+      "title": "Public policy consultation held in New Delhi",
+      "summary": "The Indian Institute of Corporate Affairs convened stakeholders to discuss how public policy can build trust.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336260"
+    },
+    "hi": {
+      "title": "नई दिल्ली में सार्वजनिक नीति पर हितधारकों की बैठक",
+      "summary": "भारतीय कॉरपोरेट कार्य संस्थान ने सार्वजनिक नीति में भरोसा बढ़ाने के तरीकों पर चर्चा के लिए हितधारकों की बैठक बुलाई।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336260"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
     "id": "ssc-cpo-paper-i-2026-admission",
     "date": "2026-11-13",
     "zone": "National",
@@ -198,6 +396,50 @@
     }
   },
   {
+    "id": "pib-2335999",
+    "category": {
+      "en": "Science",
+      "hi": "विज्ञान"
+    },
+    "date": "2026-11-13",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335999",
+    "en": {
+      "title": "COSMOS planetarium opens in Mysuru",
+      "summary": "The COSMOS-Mysuru facility was inaugurated on November 13. PIB describes it as India’s first planetarium with an LED dome.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2335999"
+    },
+    "hi": {
+      "title": "मैसूरु में कॉसमॉस तारामंडल का उद्घाटन",
+      "summary": "कॉसमॉस–मैसूरु का उद्घाटन 13 नवंबर को हुआ। पीआईबी के अनुसार यह एलईडी गुंबद वाला भारत का पहला तारामंडल है।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2335999"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2336069",
+    "category": {
+      "en": "Trade",
+      "hi": "व्यापार"
+    },
+    "date": "2026-11-13",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336069",
+    "en": {
+      "title": "45th India International Trade Fair opens",
+      "summary": "The 2026 trade fair was inaugurated on November 13, bringing exhibitors together for the 45th edition.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2336069"
+    },
+    "hi": {
+      "title": "45वें भारत अंतरराष्ट्रीय व्यापार मेले का उद्घाटन",
+      "summary": "व्यापार मेले के 45वें संस्करण का उद्घाटन 13 नवंबर को हुआ, जिसमें विभिन्न प्रदर्शक भाग ले रहे हैं।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2336069"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
     "id": "pib-2335599",
     "date": "2026-11-12",
     "zone": "North",
@@ -220,6 +462,138 @@
     }
   },
   {
+    "id": "pib-2335376",
+    "category": {
+      "en": "Education",
+      "hi": "शिक्षा"
+    },
+    "date": "2026-11-12",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335376",
+    "en": {
+      "title": "Eklavya residential school students meet the President",
+      "summary": "Students recognized for their achievements at Eklavya Model Residential Schools took part in the November 12 meeting.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2335376"
+    },
+    "hi": {
+      "title": "एकलव्य आवासीय विद्यालयों के विद्यार्थियों ने राष्ट्रपति से मुलाकात की",
+      "summary": "एकलव्य मॉडल आवासीय विद्यालयों के मेधावी विद्यार्थियों ने 12 नवंबर की इस मुलाकात में हिस्सा लिया।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2335376"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2335496",
+    "category": {
+      "en": "Education",
+      "hi": "शिक्षा"
+    },
+    "date": "2026-11-12",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335496",
+    "en": {
+      "title": "Delhi University to document medicinal plants on North Campus",
+      "summary": "The university and the Central Ayurveda Research Institute signed an agreement to record the campus’s medicinal plant diversity.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2335496"
+    },
+    "hi": {
+      "title": "दिल्ली विश्वविद्यालय के नॉर्थ कैंपस में औषधीय पौधों का दस्तावेजीकरण",
+      "summary": "विश्वविद्यालय और केंद्रीय आयुर्वेद अनुसंधान संस्थान ने परिसर के औषधीय पौधों की विविधता दर्ज करने के लिए समझौता किया।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2335496"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2335375",
+    "category": {
+      "en": "Public events",
+      "hi": "सार्वजनिक कार्यक्रम"
+    },
+    "date": "2026-11-12",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335375",
+    "en": {
+      "title": "Mumbai schedules a nuclear awareness motorcycle rally",
+      "summary": "The NPC Staff Club announced its first two-wheeler nuclear awareness rally for November 21 in Mumbai.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2335375"
+    },
+    "hi": {
+      "title": "मुंबई में परमाणु जागरूकता के लिए दोपहिया रैली",
+      "summary": "एनपीसी स्टाफ क्लब ने मुंबई में 21 नवंबर को अपनी पहली परमाणु जागरूकता दोपहिया रैली आयोजित करने की घोषणा की।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2335375"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2335454",
+    "category": {
+      "en": "Agriculture",
+      "hi": "कृषि"
+    },
+    "date": "2026-11-12",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335454",
+    "en": {
+      "title": "Plant genome awards highlight work on crop diversity",
+      "summary": "The Plant Genome Saviour Awards featured at the 22nd foundation day of India’s plant varieties and farmers’ rights authority.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2335454"
+    },
+    "hi": {
+      "title": "पादप जीनोम पुरस्कारों में फसल विविधता के संरक्षण पर जोर",
+      "summary": "पौध किस्म और कृषक अधिकार प्राधिकरण के 22वें स्थापना दिवस पर पादप जीनोम संरक्षण पुरस्कार कार्यक्रम आयोजित हुआ।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2335454"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2335578",
+    "category": {
+      "en": "Public services",
+      "hi": "जन सेवाएं"
+    },
+    "date": "2026-11-12",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335578",
+    "en": {
+      "title": "Defence pensioners complete digital life certificates",
+      "summary": "The Defence Ministry reported more than 20 lakh digital life certifications by defence pensioners under the fifth national campaign.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2335578"
+    },
+    "hi": {
+      "title": "रक्षा पेंशनभोगियों ने डिजिटल जीवन प्रमाणपत्र जमा किए",
+      "summary": "रक्षा मंत्रालय ने बताया कि पांचवें राष्ट्रीय अभियान में रक्षा पेंशनभोगियों के 20 लाख से अधिक डिजिटल जीवन प्रमाणपत्र पूरे हुए।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2335578"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2335471",
+    "category": {
+      "en": "Public services",
+      "hi": "जन सेवाएं"
+    },
+    "date": "2026-11-12",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335471",
+    "en": {
+      "title": "India refreshes its Gallantry Awards portal",
+      "summary": "The Defence Ministry announced the launch of an updated portal for India’s gallantry awards.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2335471"
+    },
+    "hi": {
+      "title": "वीरता पुरस्कार पोर्टल का नया संस्करण शुरू",
+      "summary": "रक्षा मंत्रालय ने भारत के वीरता पुरस्कारों के पोर्टल का नया संस्करण शुरू करने की घोषणा की।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2335471"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
     "id": "bidar-anganwadi-nov-2026",
     "date": "2026-11-11",
     "zone": "South",
@@ -240,6 +614,72 @@
       "summary": "जिला प्रशासन ने आंगनवाड़ी कार्यकर्ता और सहायिका पदों के लिए 11 नवंबर से 11 दिसंबर तक ऑनलाइन आवेदन की सूचना दी है। जिला वेबसाइट पर आवेदन और सरकारी विज्ञप्ति के लिंक हैं।",
       "url": "https://hb.everyana.com/?lang=hi#story-bidar-anganwadi-nov-2026"
     }
+  },
+  {
+    "id": "pib-2334978",
+    "category": {
+      "en": "Enterprise",
+      "hi": "उद्यम"
+    },
+    "date": "2026-11-11",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334978",
+    "en": {
+      "title": "Stand-Up India scheme to continue",
+      "summary": "The Cabinet approved continuation of the scheme that supports entrepreneurship among women and members of Scheduled Castes and Scheduled Tribes.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2334978"
+    },
+    "hi": {
+      "title": "स्टैंड-अप इंडिया योजना जारी रहेगी",
+      "summary": "मंत्रिमंडल ने महिलाओं तथा अनुसूचित जाति और अनुसूचित जनजाति के उद्यमियों को सहायता देने वाली योजना जारी रखने की मंजूरी दी।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2334978"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2334976",
+    "category": {
+      "en": "Enterprise",
+      "hi": "उद्यम"
+    },
+    "date": "2026-11-11",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334976",
+    "en": {
+      "title": "Credit guarantee fund for micro units will continue",
+      "summary": "A November 11 Cabinet decision continues the credit guarantee mechanism used to support lending to microenterprises.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2334976"
+    },
+    "hi": {
+      "title": "सूक्ष्म इकाइयों के लिए ऋण गारंटी कोष जारी रहेगा",
+      "summary": "11 नवंबर के मंत्रिमंडल निर्णय के तहत सूक्ष्म उद्यमों को ऋण देने में मदद करने वाली गारंटी व्यवस्था जारी रहेगी।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2334976"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
+  },
+  {
+    "id": "pib-2334969",
+    "category": {
+      "en": "Transport",
+      "hi": "परिवहन"
+    },
+    "date": "2026-11-11",
+    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334969",
+    "en": {
+      "title": "Five-station Aqua Line extension approved",
+      "summary": "The approved 8.449-kilometre corridor connects Noida Sector 51 with Greater Noida Sector 04.",
+      "url": "https://in.everyana.com/stories/#hb4-pib-2334969"
+    },
+    "hi": {
+      "title": "एक्वा लाइन के पांच स्टेशनों वाले विस्तार को मंजूरी",
+      "summary": "स्वीकृत 8.449 किलोमीटर का कॉरिडोर नोएडा सेक्टर 51 को ग्रेटर नोएडा सेक्टर 04 से जोड़ेगा।",
+      "url": "https://in.everyana.com/hi/#hb4-pib-2334969"
+    },
+    "source": "Press Information Bureau",
+    "jurisdiction": "Central Government",
+    "zone": "National"
   },
   {
     "id": "malappuram-disaster-training-nov10",
@@ -438,445 +878,5 @@
       "summary": "पश्चिम बंगाल के पात्र निवासी 18 नवंबर तक ऑनलाइन पंजीकरण और 19 नवंबर तक आवेदन जमा कर सकते हैं। योग्यता और आवेदन के निर्देश जिला स्वास्थ्य विभाग की सूचना में हैं।",
       "url": "https://hb.everyana.com/?lang=hi#story-purulia-ayush-nov-2026"
     }
-  },
-  {
-    "id": "pib-2336418",
-    "category": {
-      "en": "Culture",
-      "hi": "संस्कृति"
-    },
-    "date": "2026-11-15",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336418",
-    "en": {
-      "title": "Buddhist relics go on public display in Namsai",
-      "summary": "The Golden Pagoda exhibition in Arunachal Pradesh is open for public viewing from November 14 to 20.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336418"
-    },
-    "hi": {
-      "title": "नामसाई में बुद्ध के पवित्र अवशेषों के दर्शन",
-      "summary": "अरुणाचल प्रदेश के गोल्डन पैगोडा में 14 से 20 नवंबर तक श्रद्धालु पवित्र अवशेषों के दर्शन कर सकते हैं।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336418"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336431",
-    "category": {
-      "en": "Technology",
-      "hi": "प्रौद्योगिकी"
-    },
-    "date": "2026-11-15",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336431",
-    "en": {
-      "title": "Delhi to host a cybersecurity and digital forensics conference",
-      "summary": "NIELIT is bringing together specialists in cybersecurity and digital investigations in New Delhi on November 16 and 17.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336431"
-    },
-    "hi": {
-      "title": "दिल्ली में साइबर सुरक्षा और डिजिटल फॉरेंसिक सम्मेलन",
-      "summary": "नाइलिट 16 और 17 नवंबर को नई दिल्ली में साइबर सुरक्षा और डिजिटल जांच के विशेषज्ञों को एक मंच पर लाएगा।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336431"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336452",
-    "category": {
-      "en": "Livelihoods",
-      "hi": "आजीविका"
-    },
-    "date": "2026-11-15",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336452",
-    "en": {
-      "title": "PIB explains the Lakhpati Didi initiative",
-      "summary": "The backgrounder explains how the initiative supports women in self-help groups as they build sustainable sources of income.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336452"
-    },
-    "hi": {
-      "title": "पीआईबी ने लखपति दीदी पहल की जानकारी दी",
-      "summary": "इस विवरण में बताया गया है कि पहल स्वयं सहायता समूहों की महिलाओं को टिकाऊ आय के साधन विकसित करने में कैसे मदद करती है।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336452"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336430",
-    "category": {
-      "en": "Science",
-      "hi": "विज्ञान"
-    },
-    "date": "2026-11-15",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336430",
-    "en": {
-      "title": "PIB reviews private participation in India’s space sector",
-      "summary": "The November 15 backgrounder describes how India has opened space activities to private companies and startups.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336430"
-    },
-    "hi": {
-      "title": "भारत के अंतरिक्ष क्षेत्र में निजी भागीदारी पर पीआईबी का विवरण",
-      "summary": "15 नवंबर को जारी विवरण बताता है कि भारत ने निजी कंपनियों और स्टार्टअप के लिए अंतरिक्ष गतिविधियों में भागीदारी कैसे खोली है।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336430"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336424",
-    "category": {
-      "en": "Languages",
-      "hi": "भाषाएं"
-    },
-    "date": "2026-11-15",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336424",
-    "en": {
-      "title": "PIB outlines Adi Vaani’s work on tribal languages",
-      "summary": "The November 15 backgrounder describes a technology initiative aimed at improving digital access to tribal languages.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336424"
-    },
-    "hi": {
-      "title": "जनजातीय भाषाओं के लिए आदि वाणी की पहल",
-      "summary": "15 नवंबर को जारी विवरण जनजातीय भाषाओं तक डिजिटल पहुंच बढ़ाने वाली एक तकनीकी पहल के बारे में है।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336424"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336233",
-    "category": {
-      "en": "Culture",
-      "hi": "संस्कृति"
-    },
-    "date": "2026-11-14",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336233",
-    "en": {
-      "title": "Chhath Puja observances continue across India",
-      "summary": "In a November 14 message for Chhath, the President acknowledged the festival’s tradition of offering prayers to the Sun.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336233"
-    },
-    "hi": {
-      "title": "देशभर में छठ पूजा का पर्व",
-      "summary": "14 नवंबर के संदेश में राष्ट्रपति ने छठ पर्व पर सूर्य को अर्घ्य देने की परंपरा का उल्लेख किया।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336233"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2335376",
-    "category": {
-      "en": "Education",
-      "hi": "शिक्षा"
-    },
-    "date": "2026-11-12",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335376",
-    "en": {
-      "title": "Eklavya residential school students meet the President",
-      "summary": "Students recognized for their achievements at Eklavya Model Residential Schools took part in the November 12 meeting.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2335376"
-    },
-    "hi": {
-      "title": "एकलव्य आवासीय विद्यालयों के विद्यार्थियों ने राष्ट्रपति से मुलाकात की",
-      "summary": "एकलव्य मॉडल आवासीय विद्यालयों के मेधावी विद्यार्थियों ने 12 नवंबर की इस मुलाकात में हिस्सा लिया।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2335376"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336340",
-    "category": {
-      "en": "Sports",
-      "hi": "खेल"
-    },
-    "date": "2026-11-14",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336340",
-    "en": {
-      "title": "India wins the men’s under-19 Asia Cup",
-      "summary": "India’s men’s under-19 cricket team won the 2026 Asia Cup, according to a November 14 government release.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336340"
-    },
-    "hi": {
-      "title": "भारत ने पुरुष अंडर-19 एशिया कप जीता",
-      "summary": "14 नवंबर की सरकारी विज्ञप्ति के अनुसार, भारत की पुरुष अंडर-19 क्रिकेट टीम ने 2026 एशिया कप जीता।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336340"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336214",
-    "category": {
-      "en": "Heritage",
-      "hi": "विरासत"
-    },
-    "date": "2026-11-14",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336214",
-    "en": {
-      "title": "Janjatiya Gaurav Diwas programme includes a Mizoram museum opening",
-      "summary": "The November 15 programme in Gadchiroli marks Birsa Munda’s 151st birth anniversary and includes the Ropuiliani Tribal Freedom Fighter Museum.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336214"
-    },
-    "hi": {
-      "title": "जनजातीय गौरव दिवस कार्यक्रम में मिजोरम के संग्रहालय का उद्घाटन",
-      "summary": "गढ़चिरौली में 15 नवंबर का कार्यक्रम बिरसा मुंडा की 151वीं जयंती पर है। इसमें रोपुइलियानी जनजातीय स्वतंत्रता सेनानी संग्रहालय का उद्घाटन शामिल है।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336214"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2335999",
-    "category": {
-      "en": "Science",
-      "hi": "विज्ञान"
-    },
-    "date": "2026-11-13",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335999",
-    "en": {
-      "title": "COSMOS planetarium opens in Mysuru",
-      "summary": "The COSMOS-Mysuru facility was inaugurated on November 13. PIB describes it as India’s first planetarium with an LED dome.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2335999"
-    },
-    "hi": {
-      "title": "मैसूरु में कॉसमॉस तारामंडल का उद्घाटन",
-      "summary": "कॉसमॉस–मैसूरु का उद्घाटन 13 नवंबर को हुआ। पीआईबी के अनुसार यह एलईडी गुंबद वाला भारत का पहला तारामंडल है।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2335999"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2334978",
-    "category": {
-      "en": "Enterprise",
-      "hi": "उद्यम"
-    },
-    "date": "2026-11-11",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334978",
-    "en": {
-      "title": "Stand-Up India scheme to continue",
-      "summary": "The Cabinet approved continuation of the scheme that supports entrepreneurship among women and members of Scheduled Castes and Scheduled Tribes.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2334978"
-    },
-    "hi": {
-      "title": "स्टैंड-अप इंडिया योजना जारी रहेगी",
-      "summary": "मंत्रिमंडल ने महिलाओं तथा अनुसूचित जाति और अनुसूचित जनजाति के उद्यमियों को सहायता देने वाली योजना जारी रखने की मंजूरी दी।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2334978"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2334976",
-    "category": {
-      "en": "Enterprise",
-      "hi": "उद्यम"
-    },
-    "date": "2026-11-11",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334976",
-    "en": {
-      "title": "Credit guarantee fund for micro units will continue",
-      "summary": "A November 11 Cabinet decision continues the credit guarantee mechanism used to support lending to microenterprises.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2334976"
-    },
-    "hi": {
-      "title": "सूक्ष्म इकाइयों के लिए ऋण गारंटी कोष जारी रहेगा",
-      "summary": "11 नवंबर के मंत्रिमंडल निर्णय के तहत सूक्ष्म उद्यमों को ऋण देने में मदद करने वाली गारंटी व्यवस्था जारी रहेगी।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2334976"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2334969",
-    "category": {
-      "en": "Transport",
-      "hi": "परिवहन"
-    },
-    "date": "2026-11-11",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2334969",
-    "en": {
-      "title": "Five-station Aqua Line extension approved",
-      "summary": "The approved 8.449-kilometre corridor connects Noida Sector 51 with Greater Noida Sector 04.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2334969"
-    },
-    "hi": {
-      "title": "एक्वा लाइन के पांच स्टेशनों वाले विस्तार को मंजूरी",
-      "summary": "स्वीकृत 8.449 किलोमीटर का कॉरिडोर नोएडा सेक्टर 51 को ग्रेटर नोएडा सेक्टर 04 से जोड़ेगा।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2334969"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2335496",
-    "category": {
-      "en": "Education",
-      "hi": "शिक्षा"
-    },
-    "date": "2026-11-12",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335496",
-    "en": {
-      "title": "Delhi University to document medicinal plants on North Campus",
-      "summary": "The university and the Central Ayurveda Research Institute signed an agreement to record the campus’s medicinal plant diversity.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2335496"
-    },
-    "hi": {
-      "title": "दिल्ली विश्वविद्यालय के नॉर्थ कैंपस में औषधीय पौधों का दस्तावेजीकरण",
-      "summary": "विश्वविद्यालय और केंद्रीय आयुर्वेद अनुसंधान संस्थान ने परिसर के औषधीय पौधों की विविधता दर्ज करने के लिए समझौता किया।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2335496"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2335375",
-    "category": {
-      "en": "Public events",
-      "hi": "सार्वजनिक कार्यक्रम"
-    },
-    "date": "2026-11-12",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335375",
-    "en": {
-      "title": "Mumbai schedules a nuclear awareness motorcycle rally",
-      "summary": "The NPC Staff Club announced its first two-wheeler nuclear awareness rally for November 21 in Mumbai.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2335375"
-    },
-    "hi": {
-      "title": "मुंबई में परमाणु जागरूकता के लिए दोपहिया रैली",
-      "summary": "एनपीसी स्टाफ क्लब ने मुंबई में 21 नवंबर को अपनी पहली परमाणु जागरूकता दोपहिया रैली आयोजित करने की घोषणा की।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2335375"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2335454",
-    "category": {
-      "en": "Agriculture",
-      "hi": "कृषि"
-    },
-    "date": "2026-11-12",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335454",
-    "en": {
-      "title": "Plant genome awards highlight work on crop diversity",
-      "summary": "The Plant Genome Saviour Awards featured at the 22nd foundation day of India’s plant varieties and farmers’ rights authority.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2335454"
-    },
-    "hi": {
-      "title": "पादप जीनोम पुरस्कारों में फसल विविधता के संरक्षण पर जोर",
-      "summary": "पौध किस्म और कृषक अधिकार प्राधिकरण के 22वें स्थापना दिवस पर पादप जीनोम संरक्षण पुरस्कार कार्यक्रम आयोजित हुआ।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2335454"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336069",
-    "category": {
-      "en": "Trade",
-      "hi": "व्यापार"
-    },
-    "date": "2026-11-13",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336069",
-    "en": {
-      "title": "45th India International Trade Fair opens",
-      "summary": "The 2026 trade fair was inaugurated on November 13, bringing exhibitors together for the 45th edition.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336069"
-    },
-    "hi": {
-      "title": "45वें भारत अंतरराष्ट्रीय व्यापार मेले का उद्घाटन",
-      "summary": "व्यापार मेले के 45वें संस्करण का उद्घाटन 13 नवंबर को हुआ, जिसमें विभिन्न प्रदर्शक भाग ले रहे हैं।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336069"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2336260",
-    "category": {
-      "en": "Enterprise",
-      "hi": "उद्यम"
-    },
-    "date": "2026-11-14",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336260",
-    "en": {
-      "title": "Public policy consultation held in New Delhi",
-      "summary": "The Indian Institute of Corporate Affairs convened stakeholders to discuss how public policy can build trust.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2336260"
-    },
-    "hi": {
-      "title": "नई दिल्ली में सार्वजनिक नीति पर हितधारकों की बैठक",
-      "summary": "भारतीय कॉरपोरेट कार्य संस्थान ने सार्वजनिक नीति में भरोसा बढ़ाने के तरीकों पर चर्चा के लिए हितधारकों की बैठक बुलाई।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2336260"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2335578",
-    "category": {
-      "en": "Public services",
-      "hi": "जन सेवाएं"
-    },
-    "date": "2026-11-12",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335578",
-    "en": {
-      "title": "Defence pensioners complete digital life certificates",
-      "summary": "The Defence Ministry reported more than 20 lakh digital life certifications by defence pensioners under the fifth national campaign.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2335578"
-    },
-    "hi": {
-      "title": "रक्षा पेंशनभोगियों ने डिजिटल जीवन प्रमाणपत्र जमा किए",
-      "summary": "रक्षा मंत्रालय ने बताया कि पांचवें राष्ट्रीय अभियान में रक्षा पेंशनभोगियों के 20 लाख से अधिक डिजिटल जीवन प्रमाणपत्र पूरे हुए।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2335578"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
-  },
-  {
-    "id": "pib-2335471",
-    "category": {
-      "en": "Public services",
-      "hi": "जन सेवाएं"
-    },
-    "date": "2026-11-12",
-    "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335471",
-    "en": {
-      "title": "India refreshes its Gallantry Awards portal",
-      "summary": "The Defence Ministry announced the launch of an updated portal for India’s gallantry awards.",
-      "url": "https://in.everyana.com/stories/#hb4-pib-2335471"
-    },
-    "hi": {
-      "title": "वीरता पुरस्कार पोर्टल का नया संस्करण शुरू",
-      "summary": "रक्षा मंत्रालय ने भारत के वीरता पुरस्कारों के पोर्टल का नया संस्करण शुरू करने की घोषणा की।",
-      "url": "https://in.everyana.com/hi/#hb4-pib-2335471"
-    },
-    "source": "Press Information Bureau",
-    "jurisdiction": "Central Government",
-    "zone": "National"
   }
 ]
