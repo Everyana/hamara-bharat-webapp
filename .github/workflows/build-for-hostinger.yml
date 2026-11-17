@@ -1,0 +1,36 @@
+name: Build site for Hostinger
+
+# Builds the site and publishes the finished files to the `deploy-hostinger` branch.
+# Hostinger's Git deployment for hb.everyana.com pulls that branch, so every change
+# to main (stories, code, archive) goes live without uploading files by hand.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-for-hostinger
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - run: npm run build
+      - name: Publish dist to deploy-hostinger
+        run: |
+          cd dist
+          git init -q -b deploy-hostinger
+          git config user.name "swipes-deploy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Build from ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" deploy-hostinger
