@@ -1,5 +1,6 @@
 import {defineConfig} from 'vite';
 import {readFileSync} from 'node:fs';
+import {writeStoryPages} from './scripts/story-pages.mjs';
 
 const SITE = 'https://hb.everyana.com/';
 const TITLE = 'SWIPES Bharat — Official Public Updates';
@@ -53,4 +54,17 @@ function prerender() {
   };
 }
 
-export default defineConfig({plugins: [prerender()]});
+function storyPages() {
+  let outDir = 'dist';
+  return {
+    name: 'swipes-story-pages',
+    apply: 'build',
+    configResolved(config) { outDir = config.build.outDir; },
+    closeBundle() {
+      const r = writeStoryPages(outDir);
+      console.log(`story pages: ${r.pages} written for ${r.stories} stories`);
+    },
+  };
+}
+
+export default defineConfig({plugins: [prerender(), storyPages()]});
