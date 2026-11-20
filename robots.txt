@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hb.everyana.com/sitemap.xml
